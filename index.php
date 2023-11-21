@@ -11,7 +11,7 @@ require_once 'menu.php'; ?>
     <title>Login Social com Google</title>
     <script src="https://accounts.google.com/gsi/client" async></script>
     <script src="https://cdn.jsdelivr.net/npm/jwt-decode@4.0.0/build/cjs/index.min.js"></script>
-    <script src = "https://cdn.jsdelivr.net/npm/jwt-decode@4.0.0/build/cjs/index.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jwt-decode@4.0.0/build/cjs/index.min.js"></script>
     <script src="main.js"></script>
 </head>
 
